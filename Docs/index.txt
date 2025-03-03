@@ -9,3 +9,4 @@ Otra característica destacada de Git es su sistema de ramas. Las ramas en Git s
 Git también es conocido por su velocidad y rendimiento. Las operaciones como clonar, fusionar o revertir cambios son rápidas y eficientes, incluso en proyectos grandes con miles de archivos y contribuyentes. Además, Git proporciona herramientas para la visualización del historial de cambios y la colaboración en equipo, lo que facilita el seguimiento de quién hizo qué y cuándo.
 
 En resumen, Git ha revolucionado la forma en que los desarrolladores gestionan y colaboran en proyectos de software. Su capacidad para manejar múltiples ramas, su naturaleza distribuida y su rendimiento excepcional lo convierten en una herramienta indispensable para cualquier equipo de desarrollo. Con Git, los desarrolladores pueden trabajar de manera más eficiente, segura y colaborativa, permitiendo la creación de software de alta calidad.
+
