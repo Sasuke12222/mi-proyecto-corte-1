@@ -1,5 +1,7 @@
 # Infraestructura TI
 # Calcular forma de pago de sus ordenes de compra.
+# Moises Barrios.
+
 
 pieza_a_comprar = input("que pieza se va a comprar: ")
 numero_de_piezas = int(input(f"cantidad de {pieza_a_comprar} que desea comprar: "))
